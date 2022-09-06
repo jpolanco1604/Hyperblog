@@ -1,6 +1,6 @@
 body
 {
-color: #333;
+color: red;
 text-align: center;
 font-family: "Arial";
 font-size: 16px;
@@ -26,5 +26,9 @@ padding: 0;
 #container h1
 {
     font-size: 20px;
+<<<<<<< HEAD
     text-align: right;
+=======
+    text-align: center;
+>>>>>>> cabecera
 }
